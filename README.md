@@ -1,10 +1,8 @@
-1-Learning-R
+Learn R
 ============
 
-Resources 
-========================================================
-author: MPCA Stats and R Users
-date: July 15, 2014
+MPCA Stats and R Users
+July 15, 2014
 
 Contents
 ========================================================
