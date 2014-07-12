@@ -1,7 +1,7 @@
 Learn R
 ============
 
-MPCA Stats and R Users
+MPCA Stats and R Users  
 July 15, 2014
 
 Contents
