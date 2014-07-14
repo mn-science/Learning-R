@@ -1,13 +1,7 @@
----
-title: "Learning R"
-author: "MPCA Stats and R Users"
-date: "July 15, 2014"
-output:
-  html_document:
-    toc: true
-    theme: flatly
-    highlight: tango
----
+#Learning R  
+####MPCA Stats and R Users
+####July 15, 2014
+
 
 * * * *
 Our own GitHub
